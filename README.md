@@ -34,25 +34,29 @@ Using **CloudWatch Agent (CWAgent namespace)**:
 ## 📸 Screenshots (Proof of Implementation)
 
 ### CloudWatch Metric Visualization
-📍 *Add screenshot here:*  
+📍 <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/66b52540-1e99-497a-8387-60d5677b6d80" />
+
 `screenshots/cloudwatch-metrics.png`
 
 ---
 
 ### CloudWatch Alarm Triggered
-📍 *Add screenshot here:*  
+📍 <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/1f84b30b-f1be-4d04-87a9-3ae0e22560bb" />
+
 `screenshots/memory-alarm-graph.png`
 
 ---
 
 ### SNS Email Notification
-📍 *Add screenshot here:*  
+📍 <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/c5066106-4330-4e8e-a254-ea6a6b827f8e" />
+  
 `screenshots/alarm-triggered-email.png`
 
 ---
 
 ### CloudWatch Agent Running on EC2
-📍 *Add screenshot here:*  
+📍 <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/5ed5438c-d039-4c26-814c-4a1c57dab77f" />
+ 
 `screenshots/agent-running-status.png`
 
 ---
