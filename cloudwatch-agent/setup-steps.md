@@ -42,7 +42,8 @@ Confirm memory and disk metrics are visible
 ---
 
 ## Screenshot
-📍 <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/27bb8246-f1e5-4a47-bbd7-757aabdce98f" />
+📍 <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/f9ce5325-f6f2-4fe5-8eee-ded22b8cb8d3" />
+
 
   
 `screenshots/memory-alarm-graph.png`
